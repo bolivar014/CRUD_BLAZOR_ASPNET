@@ -1242,6 +1242,16 @@
             "rid": "win"
           }
         }
+      },
+      "BlazorCrud.Shared/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/BlazorCrud.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorCrud.Shared.dll": {}
+        }
       }
     }
   },
@@ -3916,10 +3926,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "BlazorCrud.Shared/1.0.0": {
+      "type": "project",
+      "path": "../BlazorCrud.Shared/BlazorCrud.Shared.csproj",
+      "msbuildProject": "../BlazorCrud.Shared/BlazorCrud.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BlazorCrud.Shared >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.3",
@@ -3957,7 +3973,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\JUAN-\\OneDrive\\Documentos\\Proyectos_csharp\\SolucionBlazor\\BlazorCrud.Shared\\BlazorCrud.Shared.csproj": {
+              "projectPath": "C:\\Users\\JUAN-\\OneDrive\\Documentos\\Proyectos_csharp\\SolucionBlazor\\BlazorCrud.Shared\\BlazorCrud.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4011,5 +4031,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BlazorCrud.Shared is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project BlazorCrud.Shared supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "BlazorCrud.Shared",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
