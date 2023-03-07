@@ -24,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/JUAN-/OneDrive/Documentos/Proyectos_csharp/SolucionBlazor/BlazorCrud.Client/Pages/Empleado.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/JUAN-/OneDrive/Documentos/Proyectos_csharp/SolucionBlazor/BlazorCrud.Client/Pages/Empleados.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
