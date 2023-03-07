@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aAlfGbBCTmH09DGX2/X3NdUer7NcjWYEV1Bz9km+uFuHB2IgCVtEiil4VYYAmxCZ7DzxrRSfzhMu96P3GQfPOQ==",
+  "dgSpecHash": "Yf/4jPffXQLjxiSERa62RiGcH5OW0TqpUb52WTJOvpKwDs9dAYl1QvI8Sgf4JAp9lDadJq+7CHn37g4fFPtd/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\JUAN-\\OneDrive\\Documentos\\Proyectos_csharp\\SolucionBlazor\\BlazorCrud.Client\\BlazorCrud.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\JUAN-\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.4.0\\currietechnologies.razor.sweetalert2.5.4.0.nupkg.sha512",
     "C:\\Users\\JUAN-\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.3\\microsoft.aspnetcore.authorization.7.0.3.nupkg.sha512",
     "C:\\Users\\JUAN-\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.3\\microsoft.aspnetcore.components.7.0.3.nupkg.sha512",
     "C:\\Users\\JUAN-\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.3\\microsoft.aspnetcore.components.analyzers.7.0.3.nupkg.sha512",
